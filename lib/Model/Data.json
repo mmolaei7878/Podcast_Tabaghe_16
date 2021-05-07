@@ -1,0 +1,66 @@
+[
+    {
+    "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-6-7/88260942-44100-2-9d7554ec849a5.m4a",
+    "description": "Mohsen is a co-founder of Tribe. a founding partner of Avatech that was recognized as top ten seed-investor and accelerator in the Mpodnumdle East by Gust. Mohsen has been a key speaker at StartupTurkey, TEDx, StartupGrind and his works have been featured on Forbes, NPR, Guardian, and a16z.",
+    "podnum": 1,
+    "pod_name": "",
+    "speaker": "Mohsen Malayeri"
+    },
+    {
+    "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-6-11/89367437-44100-2-34557dceedf54.m4a",
+    "description": "Kiavash is a professional day trader, active in both Tehran Exchange and Toronto Exchange markets.",
+    "podnum": 2,
+    "pod_name": "بورس ایران",
+    "speaker": "Kivash Kavyani"
+    },
+    {
+    "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-6-18/91080222-44100-2-a4f528a31209a.m4a",
+    "description": "Siavash is the CEO and Co-founder of Tribe. A super bright computer software engineer with a unique ability to balance his excellent programming skills with a keen understanding of business. In this episode, he takes us through the journey of raising funds for his startup.",
+    "podnum": 3,
+    "pod_name": "تجربه جذب سرمایه برای استارتاپ",
+    "speaker": "Siavash Mahmodian"
+    },
+    {
+    "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-6-22/92255393-44100-2-4612a9a471e93.m4a",
+    "description":"Behrouz is a design oriented CEO with experience in product and service design with a Human Centred approach. Prior to co-founding the wellness startup Smart Nora in Toronto, he honed his skills as a Systems Designer in health, financial access, agriculture, and communication in 7 countries.",
+    "podnum": 4,
+    "pod_name":"عملگرایی",
+    "speaker":" بهروز حریری"
+    }, {
+        "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-7/96361146-44100-2-4b2e02f4acaef.m4a",
+        "description":"Hampodnum Asadi is a tech entrepreneur who co-founded two tech startups over the last eight years in Iran and Canada. His first startup Navaar -The Farsi version of Audible - had the challenging mission of changing the book reading habits of contemporary Iran. Navaar is wpodnumely used by 2M active listeners serving more than 10M minutes worth of audiobooks and podcasts daily. His passion project is a new startup based in Toronto. Maktub is an audiobook company that specializes in distributing audiobooks for the Persian speakers in North America and Europe. Maktub is in contract with more than 50+ prominent platforms such as Scribed, Overdrive, Audible, and Apple and recently launched their mobile apps.",
+        "podnum": 5,
+        "pod_name":"مهاجرت و استارتاپ. رفتن یا نرفتن",
+        "speaker":"Hampodnum Asadi"
+        }, {
+            "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-11/97396797-44100-2-9cab25e9e3c48.m4a",
+            "description":"Soroush Nourbakhsh founded Dive, a start-up that developed a novel water turbine, focused on creating water-powered and connected swimming pool, water treatment and instrumentation technologies.",
+            "podnum": 6,
+            "pod_name":"استارتاپ اول و جذب پول از دانشگاه",
+            "speaker":"Soroush Nourbakhsh"
+            }, {
+                "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-13/98188717-44100-2-e710aeece6ad7.m4a",
+                "description":"Mohi started his entrepreneurial journey by launching a crowdfunding platform (2nate) in Iran. He has the experience of working in a startup accelerator and mentoring young tech startups. He moved to Canada 7 months ago to find his calling and learn to run a business on the global stage.",
+                "podnum": 7,
+                "pod_name":"زندگی جدید و کلی غرغر",
+                "speaker":" محی سنیسل"
+                }, {
+                    "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-19/99761283-44100-2-9c8522ddf6aa6.m4a",
+                    "description":"In this episode I catch up with my good friend Danial Shpodnumvash as COVpodnum-19 has brought us back in Toronto. Danial started his career as a tech consultant and later joined a start-up called Varicent, which was acquired by IBM. Danial helped with its expansion to the growth markets, and currently looks after its operation for AsiaPacific.",
+                    "podnum": 8,
+                    "pod_name":"الگو برداری و خودشناسی",
+                    "speaker":"دانیال شیدوش"
+                    }, {
+                        "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-7-28/102226629-44100-2-70dbd468eccba.m4a",
+                        "description":"Hampodnumreza Ahmadi is a Cofounder and CEO at Evand, Cofounder of Hamfekr Tehran and an event marketing professional.As the CEO of Evand and a startup community builder he has organized more than a dozen professional events in Iran. Including Startup Weekend Tehran, Iran Web and Mobile Conference and HackaTehran among others. He is also one of the founders of weekly startup meeting Hamfekr",
+                        "podnum": 9,
+                        "pod_name":"کل کل سر موندن یا رفتن",
+                        "speaker":"حمیدرضا احمدی"
+                        }, {
+                            "audio_url": "https://d3ctxlq1ktw2nl.cloudfront.net/staging/2020-8-1/103420856-44100-2-aab3cbeb755e6.m4a",
+                            "description":"Bamdad is a software engineer and a director of engineering at Babylon Health in London, United Kingdom. He was also a senior consultant software developer at ThoughtWorks",
+                            "podnum": 10,
+                            "pod_name":"تیم ساختن و استخدام",
+                            "speaker":"بامداد دشتبان"
+                            }                                                                    
+    ]
