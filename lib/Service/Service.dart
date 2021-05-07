@@ -3,13 +3,13 @@ import 'package:tabaghe_16_podcast/Model/podcast.dart';
 
 class Service {
   static Future<Podcasts> getAllPodcast() async {
-    final url = 'https://parseapi.back4app.com/classes/AllPodcasts';
+    final url = 'YourUrl';
     try {
       final response = await http.get(
         Uri.parse(url),
         headers: {
-          "X-Parse-Application-Id": "RSgVbDzfHf125ja8WZNe9FQWfFThED1fHTMlk47p",
-          "X-Parse-REST-API-Key": "8RPSmE62YaYmC1Z4diuLm81csnnFvvCkEDWa3iMy",
+          "X-Parse-Application-Id": "Application-Id",
+          "X-Parse-REST-API-Key": "YourAPiKey",
         },
       );
       if (response.statusCode == 200) {
